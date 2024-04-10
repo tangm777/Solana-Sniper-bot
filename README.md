@@ -1,5 +1,5 @@
 
-![maxresdefault](https://github.com/tangm777/Solana-Sniper-bot/assets/165523349/45f05515-4d8c-4fa8-8b3b-ced2b19aeb53)
+![GKdmNgfboAAd_Rp](https://github.com/tangm777/Solana-Sniper-bot/assets/165523349/86706827-56ce-423d-aa54-3cd185ebe0e3)
 
 # Solana-Sniper-bot
 ======================
