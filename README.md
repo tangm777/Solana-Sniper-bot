@@ -38,7 +38,7 @@ The bot that I personally use is very convenient, constantly updated, not enough
 ![photo_2023-11-03_12-47-30](https://github.com/tangm777/Solana-Sniper-bot/assets/165523349/dfa3b024-cd82-4926-aeba-bd8cdaac14e6)
 
 
-## Magnum sniper bot - TOP 4
+## Sol trading bot - TOP 4
 
 excellent bot, fast, many functions and everything works fine, I also used it for about 2 months
 
@@ -47,7 +47,7 @@ excellent bot, fast, many functions and everything works fine, I also used it fo
 ![photo_2024-03-03_08-29-05](https://github.com/tangm777/Solana-Sniper-bot/assets/165523349/3a6795ed-2944-42cc-ba11-c5991de3c54b)
 
 
-## Magnum sniper bot - TOP 5
+## Maestro sniper bot - TOP 5
 
 also a bot with very interesting functions, for example, a CA sniper from telegram groups, it also works on the ETH, BSC, BASE, SOL network
 
