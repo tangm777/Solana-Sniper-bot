@@ -29,7 +29,7 @@ the second in the top bot which has many unique features including LP sniper, a 
 ![photo_2024-03-15_00-05-27](https://github.com/tangm777/Solana-Sniper-bot/assets/165523349/d6c88ada-d04f-4504-a7c0-071c7430d9cb)
 
 
-### Magnum sniper bot - TOP 3
+## Magnum sniper bot - TOP 3
 
 The bot that I personally use is very convenient, constantly updated, not enough functions for this reason, 3rd place
 
@@ -38,7 +38,7 @@ The bot that I personally use is very convenient, constantly updated, not enough
 ![photo_2023-11-03_12-47-30](https://github.com/tangm777/Solana-Sniper-bot/assets/165523349/dfa3b024-cd82-4926-aeba-bd8cdaac14e6)
 
 
-#### Magnum sniper bot - TOP 4
+## Magnum sniper bot - TOP 4
 
 excellent bot, fast, many functions and everything works fine, I also used it for about 2 months
 
@@ -46,3 +46,11 @@ excellent bot, fast, many functions and everything works fine, I also used it fo
   
 ![photo_2024-03-03_08-29-05](https://github.com/tangm777/Solana-Sniper-bot/assets/165523349/3a6795ed-2944-42cc-ba11-c5991de3c54b)
 
+
+## Magnum sniper bot - TOP 5
+
+also a bot with very interesting functions, for example, a CA sniper from telegram groups, it also works on the ETH, BSC, BASE, SOL network
+
+- link: https://t.me/maestro?start=r-weeer
+  
+![photo_2022-08-11_10-36-19](https://github.com/tangm777/Solana-Sniper-bot/assets/165523349/7970fe7a-cec6-4082-8c97-4c0ded2b2cc5)
