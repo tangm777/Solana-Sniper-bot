@@ -54,3 +54,13 @@ also a bot with very interesting functions, for example, a CA sniper from telegr
 - link: https://t.me/maestro?start=r-weeer
   
 ![photo_2022-08-11_10-36-19](https://github.com/tangm777/Solana-Sniper-bot/assets/165523349/7970fe7a-cec6-4082-8c97-4c0ded2b2cc5)
+
+
+## Photon sniper bot - TOP 6
+
+web version of the sniper bot, for those who don’t like working in TG, it’s also very popular and multifunctional
+
+- link: https://photon-sol.tinyastro.io/@weer
+  
+  ![image](https://github.com/tangm777/Solana-Sniper-bot/assets/165523349/703fb6aa-b206-43a9-8630-a6ba38f8b96f)
+
