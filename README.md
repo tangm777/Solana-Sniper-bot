@@ -12,7 +12,7 @@ Good luck and profit to everyone!**
   **Big pack gems call channel**
   
  - link: https://t.me/addlist/qJMiFNTRZcM4ZjI6
- - 
+   
 ![image](https://github.com/tangm777/Solana-Sniper-bot/assets/165523349/5fc2d37c-c092-47b0-988d-377536d63c36)
 
 
